@@ -7,7 +7,7 @@
 <input type="file" id="image" class="form-control mb-3">
 
 <div class="form-check form-switch">
-    <input class="form-check-input" <?php echo $checked ?> type="checkbox" id="type" >
+    <input class="form-check-input" type="checkbox" id="type" >
     <p class="form-check-label text-start" for="flexSwitchCheckDefault">โปรโมชั่น</p>
 </div>
 <button class="btn btn-success" id="submitProduct">ยืนยัน</button>
